@@ -8,11 +8,22 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Either the well was very deep, or she fell very slowly, for she had
+plenty of time as she went down to look about her, and to wonder what
+was going to happen next.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'To edge his way along the crowded paths
+of life, warning all human sympathy to keep its distance,
+was what the knowing ones call "nuts" to Scrooge.
+',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'In the population of Transylvania there are four distinct nationalities:
+
+Saxons in the South, and mixed with them the Wallachs, who are the
+descendants of the Dacians; Magyars in the West, and Szekelys in the
+East and North.',
+ 'I am going among the latter, who claim to be descended
+from Attila and the Huns.'      
 };
 
 function status(statusText) {
