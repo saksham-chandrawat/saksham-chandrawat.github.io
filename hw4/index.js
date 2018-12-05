@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'At this festive season of the year',
   'example3':
-      'In the population of Transylvania there are four distinct nationalities'      
+      'Towards morning I slept and was wakened by'      
 };
 
 function status(statusText) {
