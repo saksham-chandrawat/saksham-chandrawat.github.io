@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Either the well was very deep, or she fell very slowly, for she had plenty of time as she',
+      'Either the well was very deep, or she fell very slowly for she had plenty of time as she',
   'example2':
-      'At this festive season of the year',
+      'To see the dingy cloud come drooping down, obscuring everything one might have thought that Nature',
   'example3':
-      'Towards morning I slept and was wakened by'      
+      'Sometimes we saw little towns or castles on the top of steep hills such as we see in old missals'      
 };
 
 function status(statusText) {
