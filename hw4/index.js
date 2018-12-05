@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'Either the well was very deep, or she fell very slowly, for she had plenty of time as she',
   'example2':
-      'To edge his way along the crowded paths of life, warning all human sympathy to keep its distance',
+      'At this festive season of the year',
   'example3':
       'In the population of Transylvania there are four distinct nationalities'      
 };
