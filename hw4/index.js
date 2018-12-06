@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'Either the well was very deep, or she fell very slowly for she had plenty of time as she',
   'example2':
-      'To see the dingy cloud come drooping down, obscuring everything one might have thought that Nature',
+      'Bob, with a sudden declension in his high spirits, for he had been Tims blood horse all the way from church, and had come home rampant.',
   'example3':
       'Sometimes we saw little towns or castles on the top of steep hills such as we see in old missals'      
 };
